@@ -92,6 +92,7 @@ digraph g {
 
 ![思维导图](./sources/20200308071434.png)
 
+
 ---
 
 ## 🚀 快速上手
@@ -99,6 +100,8 @@ digraph g {
 **安装**->**使用**
 
 markdown-it 系列的插件怎么使用的，markdown-it-graphviz 就怎么使用。
+
+可以参照我在维护的这个网站效果噢 [我的网站](http://www.hao6.website:1000/#graphviz-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
 
 ## 📚 开发文档
 
