@@ -1,0 +1,13 @@
+{
+  "presets": ["env", "stage-2"],
+  "plugins": [
+    "transform-decorators-legacy",
+    [
+      "transform-runtime",
+      {
+        "polyfill": false,
+        "regenerator": false
+      }
+    ]
+  ]
+}

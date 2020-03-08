@@ -1,0 +1,13 @@
+/node_modules
+/src/static
+/src/pages-test
+/src/components
+/demo
+/temp
+## /src/aiyou-ui/aiyou_modules
+
+/common
+/test
+/common/full.render-changed.js
+/test/full.render-changed.js
+full.render-changed.js

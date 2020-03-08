@@ -1,0 +1,31 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "extends": "standard",
+  "plugins": ["html"],
+  "env": { "browser": true, "node": true, "es6": true, "commonjs": true },
+  "globals": {
+    "$": true,
+    "layui": true,
+    "layer": true,
+    "okLoading": true,
+    "echarts": true,
+    "ClassicEditor": true,
+    "UE": true
+  },
+  "rules": {
+    "indent": ["error", 2],
+    "eol-last": ["error", "never"],
+    "func-call-spacing": ["error", "always"],
+    "semi": ["error", "always"],
+    "prefer-const": [
+      "error",
+      { "destructuring": "any", "ignoreReadBeforeAssign": false }
+    ],
+    "quotes": ["error", "single", { "allowTemplateLiterals": true }],
+    "no-tabs": ["error", { "allowIndentationTabs": true }],
+    "no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
+    "no-new": "off",
+    "no-caller": "off"
+  }
+}

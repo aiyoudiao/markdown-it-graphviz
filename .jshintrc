@@ -1,0 +1,9 @@
+{
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "esversion": 9,
+  "maxdepth": true,
+  "noarg": true,
+  "shadow": true
+}
