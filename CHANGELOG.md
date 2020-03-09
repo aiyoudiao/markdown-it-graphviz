@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.1.2](https://github.com/aiyoudiao/markdown-it-graphviz/compare/v1.1.1...v1.1.2) (2020-03-09)
+
+
+### Bug Fixes
+
+* **common目录:** 修复了fs模块未能正常解析的bug ([bea178e](https://github.com/aiyoudiao/markdown-it-graphviz/commit/bea178ee9c7c99069c5f4e79d64610858f78f46f))
+
 ## [1.1.1](https://github.com/aiyoudiao/markdown-it-graphviz/compare/v1.1.0...v1.1.1) (2020-03-08)
 
 ### 📝 文档
@@ -28,4 +39,3 @@
 范围|描述|commitId
 --|--|--
  release | 1.1.0 | [19749cb](https://github.com/aiyoudiao/markdown-it-graphviz/commit/19749cb)
-
