@@ -37,6 +37,7 @@ graphviz 有很多种图的（流程图、时序图、思维导图、行为图�
 
 - [graphviz的基本语法及使用](https://blog.csdn.net/mouday/article/details/80902992?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 - [Graphviz 画图的一些总结](https://www.cnblogs.com/shuqin/p/11897207.html)
+- [Graphviz](https://www.jianshu.com/p/79f1a4acd2f2)
 
 关于Graphviz语法代码高亮，可以在VS Code的扩展中安装插件，直接搜索 Graphviz，然后装装装，最后看看插件的使用教程。
 
