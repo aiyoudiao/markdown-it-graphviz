@@ -151,7 +151,7 @@
     "pre-commit": "^1.2.2",
     "prompt": "^1.0.0",
     "regenerator-runtime": "^0.13.3",
-    "semantic-release": "^15.13.24",
+    "semantic-release": "^17.2.3",
     "supertest": "^4.0.2",
     "ts-jest": "^24.1.0",
     "ts-loader": "^6.2.0",
